@@ -14,6 +14,7 @@ MST221
 Cert 3
 
 * Blacksmithing
+* Permaculture
 
 Cert 4
 
@@ -22,9 +23,8 @@ Cert 4
 Diploma
 
 * Nursing
-* Permaculture - Need research project community group 
+* Permaculture - Need research project community group
 * Languages
 
 Degree
 * B Arts (Math/Phil)
-
