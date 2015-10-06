@@ -7,12 +7,12 @@ Introducing HTML5 - Lawson & Sharp
 Bushcraft - Ray Mears
 Bushcraft - Ron Edwards
 More Bush Leather Work - Ron Edwards
-Sustainable Agriculture - 
+Sustainable Agriculture -
 Practical C Programming - Steve Oualline
-Fox Fire - 
-Survival Manual - USAF 
+Fox Fire -
+Survival Manual - USAF
 Scout Field Manual - Scout Association Victoria
-A Journey of Survival - 
+A Journey of Survival -
 One Straw Revolution -
 Tomorrow, When The War Began  - John Marsden
 Anthem - Rand
@@ -20,7 +20,7 @@ Camping and Woodcraft - Kephart
 Mort - Terry Prachett
 Mountain Craft & Leadership - Langmuir
 Bushcraft - Kochanski
-Survival Retreat - Ragnar Benson 
+Survival Retreat - Ragnar Benson
 Failure of Capatalist Production - Kliman
 Russian Politics - Barany
 Mechanics Of Materials - Beer & Johnson
@@ -28,7 +28,7 @@ Arterficial Intellegence - Russel & Norvig
 Shock Doctrine - Klien
 The Changes - Dickingson
 World According To Garp - Irving
-Cat Who Walked Through Walls - Heinlein 
+Cat Who Walked Through Walls - Heinlein
 Pride & Prejudice - Austin
 Postcard From The Internet - Casimir
 Practical Pistol - Stoeger
@@ -40,7 +40,7 @@ Post-Scarcity Anarchism - Bookchin
 Toward An Ecological Society - Bookchin
 Ecology Of Freedom - Bookchin
 Art Of Electronics - Horowitz
-80 Series Land Cruiser Service Manual 
+80 Series Land Cruiser Service Manual
 This Changes Everything - Klein
 Debt - Graeber
 The Gunslinger - King
@@ -51,3 +51,6 @@ How We Learn - Carey
 A Revolution In The Making - Rundle
 How To Keep Your Volkswagon Alive - Muir
 How To Modify Your Volkswagon Beetle: Suspension, Brakes, & Chassis For High Performance - Hale
+New Edge of the Anvil - Andrews
+The complete modern blacksmith - Weygers
+Practical projects for the blacksmith. - Tucker
