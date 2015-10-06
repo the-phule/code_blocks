@@ -1,0 +1,28 @@
+inmoov robot adaption:
+
+1. work out finger requirements for more dexterity.
+  1. hand should still be able operate as human hand, for completing manual processes.
+  2. finger should be able to rotate into and out of position from grasping position folded back to wrist, to give access to palm tools.
+  3. sucking hands for pickup
+  4. claw hands for simple grasping.
+
+2. make fingers tool holder that can be swapped in and out by other hand or by standard tool change operation:
+ 1. screwdriver bit drivers with torque sensors.
+ 2. impact drivers.
+
+3. allow for in palm chuck of portable drill machine:
+ 1. palm surface should have chuck in it.
+ 2. hide head of chuck in 'hand'
+ 3. allow fingers to operate on material as simple cnc lathe.
+ 4. give ability to drill, ream,
+
+4. make hands/forarm removable and refittable by robot, to allow completion of different tasks.
+  1. standard 'human' hand
+  2. tool hand etc.
+
+5. work on various movement modes
+  1. walking
+  2. caterpillar track
+  3. quadruped ape
+
+6. love heart nose

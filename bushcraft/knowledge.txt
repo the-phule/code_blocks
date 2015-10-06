@@ -1,3 +1,4 @@
 knowledge is power,
-skills are a demonstartion of knowledge,
-with skills and knowledge you show a need for and an understanding of tools.
+ skills are a demonstration of knowledge,
+ with skills and
+knowledge you show a need for and an understanding of tools.
