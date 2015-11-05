@@ -6,30 +6,47 @@ Duplicate obvious from EDC carry
   Cash
   Keys
   ID
-  Blade
+  Knife
   Hat
+  Multitool
   Lighter
   Pad/Pencil
   Paracord
+  Flash light
+  Watch
+  Eye protection
+  Belt
 
-Water -  SS 1L wide mouth
+Water -
+  SS 1L wide mouth
+  Bladder inside pouch on backpack
   Purification Tablets
   Heating system
+  Cup Canteen
+  Foil
+  Spoon/Fork
 
 Shelter -
-  Parka
+  Poncho/Parka
   Shirt
   Jumper - Wool swedish
   Socks
   Poncho Liner
   Trash bags
   Gaffa Tape
+  Pack Hang Loop
+  Gloves - Riggers
+  Shemaugh
 
 Self Aid
   FAK - boo boo kit
   Foot powder
   Blister Kit extras
   Sanity Pads - for shoulders
+  Medicines Pack - Paracetamol, Ibaprofin, Rehydration Tablets, Sunscreen
+  Tooth Brush
+  Hand Sanitiser
+  Wet Wipes
 
 Food
   Trail mix
@@ -46,11 +63,16 @@ Laptop -
 Current Reading
 
 Get Home Kit
-  OS map
+  OS map - Waterproof
   Compass
   GPS
   Fire Kit - Ferro Rod, Tinder etc.
   Pace Beads
-
+  Flag Tape
+  Marker Panel
+  HAM
+  Shortwave
+  Carabiner
+  Chem Lights
 
 Cover BOB/10 C's plus food enough for pack march home over a couple of days, plus have needs met for University studies and day to day.
