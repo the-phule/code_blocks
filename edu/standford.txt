@@ -1,0 +1,11 @@
+List of standford courses.
+
+Avaliable here: https://lagunita.stanford.edu/courses
+
+CS101
+Introduction to Computer Networking 
+Language, Proof, and Learning
+Statistical Learning
+Compilers
+Database
+Haptics
