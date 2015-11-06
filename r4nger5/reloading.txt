@@ -3,39 +3,39 @@ __Reloading__
 I reload handgun and rifle ammunition, both because it cheaper, rifle because it means you can fiddle endlessly and you can make up ammunition which is prohibitively expensive otherwise. Handgun because going to a revolver ammunition shouldn't double the price, and again you can fiddle... Who'd have though you can do that with a 9mm without making +P.
 
 _Consumables_
-*brass
-*projecties - sierra 155 HPBT,  220 HPBT, Nosler Custom Comp 168.
-*powder - ar2208 & trail boss
-*primers -  federal 210M
+*Brass - Lapua or ADI head stamp.
+*Projecties - Sierra 155 HPBT,  220 HPBT, Nosler Custom Comp 168.
+*Powder - AR2208 & trail boss.
+*Primers -  federal 210M.
 
 _Tools_
-*press - forster or eq.
-*reloading dies
-*scales - mechanical beam
-*powder trickler
-*deburring/champher tool
-*vernier caliper
-*case wax/case spray -  use very sparingly
-*tumbler/ultrasonic cleaner -  build tumbler
+*Press - Forster or eq.
+*Reloading dies -
+*Scales - mechanical beam
+*Powder trickler
+*Deburring/champher tool
+*Vernier caliper
+*Case wax/case spray -  use very sparingly
+*Tumbler/ultrasonic cleaner -  build tumbler
 
 _Cleaning & Storage_
 *Inox - appears the best cleaning/rust prevention.
-*patches -  sizes
-*cleaning rod - 1 piece, rotating handle, patches barb.
-*bore snake/pull through - good in field, keep in baggy
-*silicon sock - helps keep rust off
+*Patches -  sizes
+*Cleaning rod - 1 piece, rotating handle, patches barb.
+*Bore snake/pull through - good in field, keep in baggy
+*Silicon sock - helps keep rust off
 
 _Optional_
 *Neck tension tool - little lathe like thing
-*lee loader - i like them, you just have to check your powder throw tools.
-*reloading block -  comes free on Lapua plastic boxes, 3d print one or use a spade bit in a lump of wood.
+*Lee loader - i like them, you just have to check your powder throw tools.
+*Reloading block -  comes free on Lapua plastic boxes, 3d print one or use a spade bit in a lump of wood.
 *Rustoleum spray can paint -  Just rattle can it up.
-*scoop -  get old case cut of at neck and work charge weight then cut down to level or charge, great for trailboss loads.
+*Scoop -  get old case cut of at neck and work charge weight then cut down to level or charge, great for Trailboss loads.
 
 _Reloading_
-*Take brass this can be found or bought second hand once fired, range pickup or freebies or new. The only new brass worth buying appears to be ADI headstamp or Lapua.
+*Take brass this can be found or bought second hand once fired, range pickup or freebies or new. The only new brass worth buying appears to be ADI head stamp or Lapua.
 
-*Check length, Deburr/ chamfer neck inside and out, weight and batch.
+*Check length, Deburr/chamfer neck inside and out, weight and batch.
 
 *Fiddle with neck tension if you want to, you need the neck tool then you run them all though.
 
@@ -47,9 +47,9 @@ _Reloading_
 
 *Fit primer - check it isn't loose
 
-*throw powder charge  -  ADI powders online guide, I throw the charge with a lee scoop then trickle it to level.
+*Weight/Throw powder charge  -  ADI powders online guide, I throw the charge with a lee scoop then trickle it to level.
 
-*fit bullet and seat check over all length
+*Fit bullet and seat check over all length
 
 
  _Observations_
@@ -57,4 +57,4 @@ _Reloading_
 
  Don't through all you reloaded ammunition into a bucket shaped device, use a tray; you'll know how many you have, you can check primer seating depth, you can check bullet seating depth.
 
- If your bored of constantly opening your safe to spotty rust on firearms, grab a can or so of Rustoleum spray paint and go your hardest. Inox ppers the best of all the other options and its cheap, you need to run a patch before shooting I'm told.
+ If your bored of constantly opening your safe to spotty rust on firearms, grab a can or so of Rustoleum spray paint and go your hardest. Inox offers the best of all the other options and its cheap, you need to run a patch/pull through before shooting.
