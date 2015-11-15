@@ -1,6 +1,12 @@
 To be carried on person when at college, to and from work, etc.
 
-GR1/medium ALICE pack - Robust external frame pack, preferably not 'military' neds to have a decent waterproof closure system, internal bladders storage system with through holes for 
+GR1/medium sized ALICE pack -
+  #Robust external frame pack,
+  #Preferably not 'military' or 'tactical'
+  #needs to have a decent waterproof closure system,
+  #internal bladders storage system with through hole for drinking tube,
+  #Waist pad belt
+  #Covers
 
 
 Duplicate obvious from EDC carry
@@ -60,7 +66,7 @@ Food
 
 Laptop -
   Charger/USB
-  Phone boost
+  Phone boost battery backup
   Phone - Backup/Burner
 
 Current Reading

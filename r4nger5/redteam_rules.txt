@@ -1,0 +1,77 @@
+http://www.itstactical.com/intellicom/mindset/red-team-mindset-the-original-12-rules-to-ensure-success/
+
+While “Red Team” often refers to a group of experts testing or infiltrating a physical or virtual perimeter of an opposing force, anyone can benefit from employing a Red Team mindset in non-technical aspects. Think of everyday activities such as work or school. The goal here is to enhance decision making.
+
+Red Teaming can solve problems through an indirect and creative approach, using reasoning that isn’t immediately obvious. It also involves ideas that may not be obtainable solely through traditional step-by-step logic.
+1. Always Have an Escape Plan
+
+You know your plans will fail, there’s no doubt about it. Always have a way out. This also applies to projects, operations and everything else you do. Always know where the exits are, always know what to do in an emergency and be prepared for them. This is such an important thing that it’s the 1st rule on the list.
+
+    Always have a plan.
+    Always have a back-up plan, because the first one probably won’t work.
+    Always have an escape plan, because all the rest of your plans will fail.
+
+This also goes along with the planning acronym PACE: Primary, Alternate, Contingency and Emergency.
+Elevator Escape 09
+2. Be Aware of Your Surroundings
+
+So now you have an escape plan. What comes next is knowing where you are, what’s happening around you, what things that are out of place, or who might be watching you. Being aware of your surroundings will give you that extra fraction of a second to react and save your life, or that of your buddy.
+
+On the Red Team side, being aware of what’s around you, both physically and digitally, might give you that extra edge. It will help you find that way in, find the faulty policy, or the question no one asked. So right after having an escape plan, is the need to be aware of your surroundings.
+3. Assumption is the Mother of All F**kups
+
+Assuming that something will happen in a certain way is asking for trouble. Never assume, always verify, ask, research, investigate, collect intel and inform yourself and your team.
+
+This rule is one of those truths that has to be realized time and time again. We forget about it when we’re very involved with something and think we know all the answers. Don’t do it.
+4. Always Have a Backup Plan
+
+This rule is right up there with rule number 1. You know your plan will go to hell once you’re in the field, so always have a plan B and if possible, a plan C.
+
+When we’re planning a project, we always designate a team member as the Plan B guy. He or she is in charge of saying that Plan A is bad and won’t work, so a Plan B will be drafted. Similar to the 10th Man Strategy, the plan B person will always work on contingencies. When in doubt always remember PACE (see rule 1.)
+
+Editor-in-Chief’s Note: The “10th Man” is a strategy that seems clouded in its exact origin, but the premise is that if you have 10 people in a decision making process and all nine agree on a specific direction to take, it’s the 10th man’s responsibility to offer a dissenting opinion, or disagreement with the majority. You could even use the term “Devil’s Advocate” here. The 10th Man philosophy is simply to offer an alternate viewpoint for the sake of fostering a different way of thinking.
+5. Never Get Caught
+
+Within the worlds of covert ops and fieldcraft this is a golden rule; you never get caught. Bad things happen if you do.
+
+In the Red Team world, if you get caught you’ve failed. If they discover your backdoor or catch you trying to walk through the main entrance of your target, you’re done. Great care should be taken not to get caught.
+6. Keep Your Mouth Shut
+
+OPSEC isn’t just important for national security. If you talk to much about your tactics, the way you do things, your tools and your people, you damage your team. The blue team, or opposing force, will prepare for this and you’ll be done.
+7. KISS: Keep it Simple, Stupid
+
+I said it many times before; the simpler the gear, the better it is. Your life depends on this. This also translates to planning and tactics. A simple plan with a flexible blueprint will survive real world contact far better than a complex, rule-bound plan.
+
+Simple things are easy to change when needed and will adapt better to the ever-changing conditions in the field. So when you’ve got a plan, start simplifying it until nothing more can be taken away. This also applies to gear.
+
+“If there’s a question about if it’s necessary, remove it. Less is more and more is lazy.” ~ Jason McCarthy, GORUCK founder
+8. Simple and Light Equals Freedom, Agility and Mobility
+
+As with Rule 7, I believe in being nimble. Being small and light allows you to move faster, more fluently and more efficient.
+
+Take packing gear for example, the heavier you are the slower you’ll be. Do you really need all that gear? Can you go lighter? Can you use some of the gear for multiple things or can you completely do without it? In most cases, you can.
+
+The same thing applies to your team. You don’t need a big team to be successful, you just need the right team. The right people can perform at a higher level and be tasked with different things. Having a small team means you can adapt faster and that forward momentum can be stopped much easier. Meaning that if a Plan B that deviates 180 degrees from Plan A needs to be executed, it won’t crash the team.
+
+I recommend you read Getting Real from the people behind 37Signals.
+9. Plan, Execute and Vanish
+The Original 12 Red Team Rules
+
+Leave no trace. Plan your way in, execute it to the best of your abilities and vanish. If they don’t know you were there, they can’t protect against you.
+
+If you’re testing the target’s blue team, QRF, or security team, this is key. You want to keep them guessing.
+10. You Don’t Have to Like It, You Just Have to Do It
+
+Sometimes you have to do things that make no sense. Suck it up. Do it and be done with it. The faster you do it, the faster it’ll be over.
+11. Always Invest in Good Quality Stuff
+
+Having the right gear and the best gear, means you can trust it. This also means less headaches, less maintenance and less mental energy in having to research new gear.
+
+Good quality stuff will perform when you need it.
+12. Trust Your Gut
+
+Ah yes, the gut feeling. Sometimes you have a nagging feeling that something isn’t right. That you should be doing the exact opposite of what you and your team are doing. Listen to this. Your gut will let you know when Plan B is needed.
+
+It also might save your life someday.
+
+You can view the comprehensive list of Red Team Rules http://redteams.net/rules
