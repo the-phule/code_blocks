@@ -1,8 +1,8 @@
 ## Kit Lines
 
-Explanation of lines/dgerees of kit it's redundency and the general form of carry, this chagnes as things are aquired and skills are perfected but it gives an outline and example.
+Explanation of lines/dgerees of kit it's redundency and the general form of carry, this changes as things are aquired and skills are perfected but it gives an outline and example.
 
-Belt Line/Personal Effects
+# Belt Line/Personal Effects
 
 For a better outline see EDC list, but you get an idea, things change constantly here.
 
@@ -18,7 +18,7 @@ For a better outline see EDC list, but you get an idea, things change constantly
 *
 
 
-Haversack/Butt Pack
+# Haversack/Butt Pack
 
 * Buttpack/Haversack incl. straps
 * Knife - Spare
@@ -34,11 +34,11 @@ Haversack/Butt Pack
 * Brew Kit
 * Food
 
-Medium Alice 
+# Medium Alice 
 
-Truck/Vehicle - See seperate article.
+# Truck/Vehicle - See seperate article.
 
-Cache
+# Cache
 
 Mostly Kit replacement items, Army shipping container/Space boxes work well, as do the cheaper round food grade screw lid containers.
 
